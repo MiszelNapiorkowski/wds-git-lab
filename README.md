@@ -27,10 +27,10 @@ biblioteka ***pandas 3.0***.
     - system kontroli wersji **Git** oraz serwis **GitHub**.  
 ### 2.2. Status realizacji modułów  
 
-- [x] Moduł 0: Konfiguracja środowiska pracy i Jupyter Notebook
-- [x] Moduł 1: Warsztat Git, Markdown oraz standard PEP 8
-- [ ] Moduł 2: Typy danych, operatory i łańcuchy znaków
-- [ ] Moduł 3: Kolekcje w języku Python
+- [x] Moduł 0: Konfiguracja środowiska pracy i Jupyter Notebook  
+- [x] Moduł 1: Warsztat Git, Markdown oraz standard PEP 8  
+- [ ] Moduł 2: Typy danych, operatory i łańcuchy znaków  
+- [ ] Moduł 3: Kolekcje w języku Python  
 
 ## 3. Szybki start (Uruchomienie środowiska)
 Aby odtworzyć środowisko wirtualne `.venv` na podstawie pliku `pyproject.toml`, wykonaj w terminalu:  
