@@ -1,3 +1,3 @@
-"Chciaˆbym pozna† podstawy Data Science i nauczy† si© analizowa† dane." 
-"Oczekuj© zdobycia umiej©tno˜ci pracy z Pythonem oraz narz©dziami do analizy danych." 
-"Chciaˆbym nauczy† si© wyci¥ga† wnioski z danych i wykorzystywa† je w praktyce." 
+"Chcialbym poznac podstawy Data Science i nauczyc sie analizowac dane." 
+"Oczekuje zdobycia umiejetnosci pracy z Pythonem oraz narzedziami do analizy danych." 
+"Chcialbym nauczyc sie wyciagac wnioski z danych i wykorzystywac je w praktyce." 
