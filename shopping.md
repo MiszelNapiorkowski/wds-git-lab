@@ -1,1 +1,2 @@
 "# Lista zakup¢w" 
+"- jabˆka" 
