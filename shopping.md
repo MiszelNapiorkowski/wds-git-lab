@@ -1,6 +1,3 @@
-"# Lista zakup¢w" 
-"- jabˆka" 
-
-## Napoje
-
-- woda
+"marchew" 
+"\nkapusta" 
+"\nburak" 
